@@ -1,15 +1,6 @@
-
-.idea/vcs.xml
-<<<<<<< Updated upstream
-.idea/modules.xml
-.idea/misc.xml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/hyperskill.iml
-=======
+.idea/workspace.xml
 .idea/hyperskill.iml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/inspectionProfiles/Project_Default.xml
 .idea/misc.xml
 .idea/modules.xml
->>>>>>> Stashed changes
